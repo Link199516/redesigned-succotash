@@ -1,0 +1,433 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"Project-Id-Version: MaxSlider\n"
+"POT-Creation-Date: 2019-11-19 13:36+0200\n"
+"PO-Revision-Date: 2020-04-27 14:15+0100\n"
+"Language-Team: Anastis Sourgoutsidis <anastis@cssigniter.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: maxslider.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"Last-Translator: \n"
+"Language: ar\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#. Plugin Name of the plugin/theme
+#: class-maxslider-visual-composer-slider.php:37
+msgid "MaxSlider"
+msgstr ""
+
+#. translators: This translation should match the Visual Composer element category's translation, in order for the element to get grouped under the same category.
+#: class-maxslider-visual-composer-slider.php:40
+msgctxt "Visual Composer element category"
+msgid "Content"
+msgstr "المحتوى"
+
+#: class-maxslider-visual-composer-slider.php:41
+msgid "Displays a single slider"
+msgstr "يعرض سلايدر واحد"
+
+#: class-maxslider-visual-composer-slider.php:45
+msgid "Slider"
+msgstr " سلايدر"
+
+#: class-maxslider-visual-composer-slider.php:50
+msgid "Choose a previously created slider from the drop down list."
+msgstr "اختر سلايدر تم إنشاؤه مسبقًا من القائمة المنسدلة."
+
+#: maxslider.php:241
+msgid ""
+"Do you really want to remove all slides? (This will not delete your image "
+"files)."
+msgstr ""
+"هل تريد حقًا إزالة جميع الشرائح؟ (لن يؤدي ذلك إلى حذف ملفات الصور من الموقع)."
+
+#: maxslider.php:242
+msgid "Select a slide image"
+msgstr "اختيار صورة"
+
+#: maxslider.php:279
+msgctxt "post type general name"
+msgid "Sliders"
+msgstr "سلايدر"
+
+#: maxslider.php:280 maxslider.php:295
+msgctxt "post type singular name"
+msgid "Slider"
+msgstr "سلايدر"
+
+#: maxslider.php:281
+msgctxt "admin menu"
+msgid "MaxSlider"
+msgstr ""
+
+#: maxslider.php:282
+msgctxt "add new on admin bar"
+msgid "Slider"
+msgstr "شريحة"
+
+#: maxslider.php:283
+msgid "Add New"
+msgstr "اضف جديد"
+
+#: maxslider.php:284
+msgid "Add New Slider"
+msgstr "إضافة سلايدر جديد"
+
+#: maxslider.php:285
+msgid "Edit Slider"
+msgstr "تعديل السلايدر"
+
+#: maxslider.php:286
+msgid "New Slider"
+msgstr "سلايدر جديد"
+
+#: maxslider.php:287
+msgid "View Sliders"
+msgstr "عرض السلايدر"
+
+#: maxslider.php:288
+msgid "Search Sliders"
+msgstr "بحث"
+
+#: maxslider.php:289
+msgid "No sliders found"
+msgstr "لم يتم العثور على شئ"
+
+#: maxslider.php:290
+msgid "No sliders found in the trash"
+msgstr "لم يتم العثور على شئ في سلة المهملات"
+
+#: maxslider.php:315
+msgid "Slides"
+msgstr "الشرائح"
+
+#: maxslider.php:316
+msgid "Settings"
+msgstr "الإعدادات"
+
+#: maxslider.php:317
+msgid "Shortcode"
+msgstr "اختصار"
+
+#: maxslider.php:383
+msgid "MaxSlider Logo"
+msgstr "شعار MaxSlider"
+
+#: maxslider.php:411
+msgid "Support"
+msgstr "الدعم الفني"
+
+#: maxslider.php:415
+msgid "Documentation"
+msgstr "دليل الإضافة"
+
+#: maxslider.php:419
+msgid "Rate this plugin"
+msgstr "أعط تقييما لهذه الإضافة"
+
+#: maxslider.php:441
+#, php-format
+msgid ""
+"Thank you for creating with <a href=\"%s\" target=\"_blank\">MaxSlider</a>"
+msgstr "شكرا لك على إستخدام <a href=\"%s\" target=\"_blank\">MaxSlider</a>"
+
+#: maxslider.php:498
+msgid "Toggle slide visibility"
+msgstr "تبديل رؤية الشريحة"
+
+#: maxslider.php:509
+msgid "Remove Image"
+msgstr "حذف الصورة"
+
+#: maxslider.php:522
+msgid "Upload Image"
+msgstr "رفع الصورة"
+
+#: maxslider.php:542 maxslider.php:549
+msgid "Title"
+msgstr "العنوان"
+
+#: maxslider.php:555 maxslider.php:564
+msgid "Title size"
+msgstr "حجم العنوان"
+
+#: maxslider.php:570 maxslider.php:577
+msgid "Title color"
+msgstr "لون العنوان"
+
+#: maxslider.php:588 maxslider.php:595
+msgid "Subtitle"
+msgstr "عنوان فرعي"
+
+#: maxslider.php:601 maxslider.php:610
+msgid "Subtitle size"
+msgstr "حجم العنوان الفرعي"
+
+#: maxslider.php:616 maxslider.php:623
+msgid "Subtitle color"
+msgstr "لون العنوان الفرعي:"
+
+#: maxslider.php:634 maxslider.php:641
+msgid "Button text"
+msgstr "نص الزر"
+
+#: maxslider.php:649 maxslider.php:656
+msgid "Button URL"
+msgstr "عنوان الزر"
+
+#: maxslider.php:665 maxslider.php:672
+msgid "Button background color"
+msgstr "لون خلفية الزر"
+
+#: maxslider.php:678 maxslider.php:685
+msgid "Button text color"
+msgstr "لون نص الزر"
+
+#: maxslider.php:691 maxslider.php:697
+msgid "Button size"
+msgstr "حجم الزر"
+
+#: maxslider.php:717
+msgid "Horizontal content alignment"
+msgstr "محاذاة أفقية للمحتوى"
+
+#: maxslider.php:739
+msgid "Vertical content alignment"
+msgstr "محاذاة عمودية للمحتوى"
+
+#: maxslider.php:761 maxslider.php:768
+msgid "Content background color"
+msgstr "لون خلفية المحتوى"
+
+#: maxslider.php:775 maxslider.php:782
+msgid "Slide overlay color"
+msgstr "تراكب اللون Overlay"
+
+#: maxslider.php:793
+msgid "Remove Slide"
+msgstr "إزالة الشريحة"
+
+#: maxslider.php:807
+msgid "Add Slide"
+msgstr "إضافة شريحة"
+
+#: maxslider.php:814
+msgid "Remove all slides"
+msgstr "إزالة كافة الشرائح"
+
+#: maxslider.php:820
+msgid "Expand All"
+msgstr "توسيع الكل"
+
+#: maxslider.php:823
+msgid "Collapse All"
+msgstr "طي الكل"
+
+#: maxslider.php:866
+msgid "Auto slide"
+msgstr "إنتقال آلي"
+
+#: maxslider.php:872
+msgid "Slide effect"
+msgstr "التأثيرات"
+
+#: maxslider.php:892 maxslider.php:902
+msgid "Pause between slides"
+msgstr "إيقاف مؤقت بين الشرائح"
+
+#: maxslider.php:907
+msgid "Time in milliseconds."
+msgstr "الوقت بالميلي ثانية"
+
+#: maxslider.php:913 maxslider.php:921
+msgid "Height"
+msgstr "الارتفاع"
+
+#: maxslider.php:926
+msgid ""
+"Provide the height of this slider (leaving this empty will apply the default "
+"of 600px)."
+msgstr ""
+"أضف ارتفاع السلايدر (عند ترك هذا الحقل فارغا، سيتم تطبيق الارتفاع الافتراضي "
+"600px)."
+
+#: maxslider.php:932
+msgid "Navigation type"
+msgstr "طريقة التنقل بين الشرائح"
+
+#: maxslider.php:950
+msgid ""
+"Please note that on mobile devices the slider will always display dots "
+"instead of arrows regardless of this setting. The \"none\" setting will "
+"always be respected."
+msgstr ""
+"يرجى الملاحظة أنه على الأجهزة المحمولة سيتم إستخدام النقاط بدلاً من الأسهم."
+
+#: maxslider.php:956
+msgid "Arrows position"
+msgstr "موضع الأسهم"
+
+#: maxslider.php:974
+msgid "Applies only to arrow navigation."
+msgstr "ينطبق فقط على الأسهم."
+
+#: maxslider.php:981 maxslider.php:988
+msgid "Navigation color"
+msgstr "لون أزرار التنقل بين الشرائح"
+
+#: maxslider.php:995 maxslider.php:1002
+msgid "Navigation background color"
+msgstr "لون خلفية أزرار التنقل"
+
+#: maxslider.php:1009
+msgid "Image size"
+msgstr "حجم الصورة"
+
+#: maxslider.php:1039
+msgid "Grab the shortcode"
+msgstr "الحصول على كود الإختصار"
+
+#: maxslider.php:1109
+msgid "Move slide"
+msgstr "نقل الشريحة"
+
+#: maxslider.php:1124
+msgid "Batch Upload"
+msgstr "رفع بالجملة"
+
+#. translators: %1$s is width. %2$s is height.
+#: maxslider.php:1273
+#, php-format
+msgid "%1$s&times;%2$s"
+msgstr ""
+
+#: maxslider.php:1274
+msgid "Full size"
+msgstr "الحجم الكامل"
+
+#: maxslider.php:1279
+msgid "Set by: Theme / Plugin"
+msgstr "تم تعيينه من قبل: القالب / الإضافة"
+
+#: maxslider.php:1292
+msgid "Set by: MaxSlider"
+msgstr "تم تعيينه من قبل: MaxSlider"
+
+#: maxslider.php:1305
+msgid "Set by: Settings > Media"
+msgstr "تم تعيينه بواسطة: الإعدادات > وسائط"
+
+#: maxslider.php:1325
+msgid "Extra small"
+msgstr "صغير جدا"
+
+#: maxslider.php:1326
+msgid "Small"
+msgstr "صغير"
+
+#: maxslider.php:1327
+msgid "Default"
+msgstr "افتراضي"
+
+#: maxslider.php:1328
+msgid "Large"
+msgstr "كبير"
+
+#: maxslider.php:1334
+msgid "Left"
+msgstr "يسار"
+
+#: maxslider.php:1335
+msgid "Center"
+msgstr "وسط"
+
+#: maxslider.php:1336
+msgid "Right"
+msgstr "يمين"
+
+#: maxslider.php:1342
+msgid "Top"
+msgstr "أعلى"
+
+#: maxslider.php:1343
+msgid "Middle"
+msgstr "منتصف"
+
+#: maxslider.php:1344
+msgid "Bottom"
+msgstr "اسفل"
+
+#: maxslider.php:1356
+msgid "None"
+msgstr "بدون"
+
+#: maxslider.php:1357
+msgid "Arrows"
+msgstr "الاسهم"
+
+#: maxslider.php:1358
+msgid "Dots"
+msgstr "النقاط"
+
+#: maxslider.php:1359
+msgid "Arrows & Dots"
+msgstr "السهام والنقاط"
+
+#: maxslider.php:1371
+msgid "Default (vertically centered)"
+msgstr "الافتراضي (التوسيط عمودياً)"
+
+#: maxslider.php:1372
+msgid "Top Left"
+msgstr "أعلى اليسار"
+
+#: maxslider.php:1373
+msgid "Top Right"
+msgstr "اعلى اليمين"
+
+#: maxslider.php:1374
+msgid "Bottom Left"
+msgstr "اسفل اليسار"
+
+#: maxslider.php:1375
+msgid "Bottom Right"
+msgstr "أسفل اليمين"
+
+#: maxslider.php:1381
+msgid "Fade"
+msgstr "تلاشى"
+
+#: maxslider.php:1382
+msgid "Slide"
+msgstr "انزلاق"
+
+#. Plugin URI of the plugin/theme
+msgid "https://www.cssigniter.com/ignite/plugins/maxslider/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"MaxSlider is a free WordPress slider plugin that lets you create responsive "
+"sliders for your website. Shortcode and Visual Composer support included."
+msgstr ""
+"‫MaxSlider هو إضافة مجانية لانشاء سلايدر متجاوب. الإضافة توفر كود إختصار "
+"Shortcode ومتوافقع مع  Visual Composer ."
+
+#. Author of the plugin/theme
+msgid "The CSSIgniter Team"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.cssigniter.com"
+msgstr ""

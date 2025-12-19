@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'Avenir Next World';
+    src: url('AvenirNextWorld-Demi.eot');
+    src: url('AvenirNextWorld-Demi.eot?#iefix') format('embedded-opentype'),
+        url('AvenirNextWorld-Demi.woff2') format('woff2'),
+        url('AvenirNextWorld-Demi.woff') format('woff'),
+        url('AvenirNextWorld-Demi.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}

@@ -1,0 +1,44 @@
+.napoleon-customize-tabs {
+    display: flex;
+    margin-bottom: 15px;
+    border-bottom: 1px solid #ccc;
+}
+
+.napoleon-customize-tab {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.napoleon-customize-tab a {
+    padding: 10px 15px;
+    display: block;
+    text-decoration: none;
+    color: #555;
+    border: 1px solid transparent;
+    border-bottom: 0;
+}
+
+.napoleon-customize-tab.active a {
+    background-color: #fff;
+    border-color: #ccc;
+    border-bottom-color: #fff;
+    margin-bottom: -1px;
+}
+
+.repeater-field {
+    border: 1px solid #ccc;
+    padding: 15px;
+    margin-bottom: 15px;
+}
+
+.repeater-field-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 15px;
+}
+
+.repeater-field-title {
+    font-weight: bold;
+}
